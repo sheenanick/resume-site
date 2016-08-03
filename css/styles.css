@@ -1,0 +1,28 @@
+body {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+h3 {
+  color: #008fb3;
+}
+
+.objective {
+  background-color: #f2f2f2;
+}
+
+.education {
+  background-color: #e6faff;
+}
+
+.experience {
+  background-color: #f2f2f2
+}
+
+.awards {
+  background-color: #e6faff
+}
+
+.job-title {
+  font-style: italic;
+}
